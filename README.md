@@ -5,7 +5,7 @@
 
 <p align="left"> 
   Olá,Meu nome é Leonardo estou estudando para me torna um <strong>Desenvolvedor Front-end</strong>.<br>
-  No momento estou totalemto focado em aprender <strong>JavaScript,HTML5 e CSS!</strong>.
+  No momento estou totalmente focado em aprender <strong>JavaScript,HTML5 e CSS!</strong> e logo após ir pro <strong>Node e React!</strong>.
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
