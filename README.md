@@ -1,7 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 <p align="left"> 
   Olá,Meu nome é Leonardo estou estudando para me torna um <strong>Desenvolvedor Front-end</strong>.<br>
@@ -27,7 +25,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
