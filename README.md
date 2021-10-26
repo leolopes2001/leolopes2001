@@ -29,8 +29,8 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Leonardo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leonardo-martins-313000180/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leomartins2001@gmail.com)
+[![Linkedin: Leonardo](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-martins-313000180/)](https://www.linkedin.com/in/leonardo-martins-313000180/)
+[![Gmail Badge](https://img.shields.io/badge/-leomartins2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leomartins2001@gmail.com)](mailto:leomartins2001@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/leolopes2001)
 
 
