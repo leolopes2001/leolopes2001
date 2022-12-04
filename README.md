@@ -2,7 +2,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 <p align="left"> 
-  Olá,Meu nome é Leonardo estou estudando para me torna um <strong>Desenvolvedor Front-end</strong>.<br>
+  Olá,Meu nome é Leonardo e sou um desenvolvedor <strong>Full Stack</strong> em formação!<br>
   No momento estou totalmente focado em aprender <strong>JavaScript,HTML5 e CSS!</strong> e logo após ir pro <strong>Node e React!</strong>.
 </p>
 
