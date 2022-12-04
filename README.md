@@ -3,7 +3,6 @@
 
 <p align="left"> 
   Olá,Meu nome é Leonardo e sou um desenvolvedor <strong>Full Stack</strong> em formação!<br>
-  No momento estou totalmente focado em aprender <strong>JavaScript,HTML5 e CSS!</strong> e logo após ir pro <strong>Node e React!</strong>.
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
