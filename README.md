@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <p align='center'>
-  Front End Developer
+  Software Developer
 </p>
 
 ### 🌻 About Me:
