@@ -35,7 +35,7 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vue,tailwindcss,react,styledcomponents,bootstrap,wordpress)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vuejs,tailwind,react,styledcomponents,bootstrap,wordpress)](https://skillicons.dev)
 
 - Back-End
 
