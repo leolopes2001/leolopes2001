@@ -39,11 +39,11 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,nodejs,express,docker,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,nodejs,docker,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,vscode)](https://skillicons.dev)
 
 💬 Want to get in touch?
 
