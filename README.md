@@ -1,49 +1,60 @@
-
-<h3> :man: &nbsp;Sobre mim </h3>
-
-<p align="left"> 
-  Olá,Meu nome é Leonardo e sou um desenvolvedor <strong>Full Stack</strong> em formação!<br>
+<h1 align='center'>
+  Hello, I'm Leonardo Martins!
+  <br/>
+  Welcome to my page :)
+</h1>
+<p align='center'>
+  Front End Developer
 </p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+### 🌻 About Me:
 
-**Aplicações e Dados**
+<p>
+  <em>
+    I'm 22 years old, from Belo Horizonte and currently working as a Front End Developer at Grupo Gestão Saúde.
+  </em>
+</p>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
-**DevOps**
+- 🌱 Studying and improving my skills in Vue.js and Laravel.
+- 🚀 Student at PUC Minas
+- 📫 My email: leomartins2001@gmail.com
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-**Ferramentas de Desenvolvimento**
+### 📊 2023 Goals:
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
-<br/>
+- 🌱 Keep learning from people and resources.
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+- 🌎 Connect with people and explore new places.
 
-<p align="left">
-  <a href="mailto:leomartins2001@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+- 🎯 Create a project applying gained knowledge and new technologies.
 
-  <a href="https://www.linkedin.com/in/leonardo-martins-313000180/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+- 🚀 Improve leadership skills.
 
-  <a href="https://wa.me/5531998699100" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+### ⚡ Technologies:
 
-  
+These are some of the technologies and tools I use:
 
-  <a href="https://www.instagram.com/leolopes300/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+- Front-End
 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,styledcomponents,bootstrap)](https://skillicons.dev)
 
+- Back-End
 
- 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,nodejs,express,docker,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux)](https://skillicons.dev)
+
+💬 Want to get in touch?
+
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-martins-antunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5531998699100" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:leomartins2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.instagram.com/leolopes300/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
