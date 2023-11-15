@@ -35,15 +35,15 @@ These are some of the technologies and tools I use:
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vuejs,tailwind,react,styledcomponents,bootstrap,wordpress)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,vuejs,tailwind,react,styledcomponents,bootstrap,wordpress,sass,redux,   materialui)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,nodejs,docker,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express, laravel,sqlite,mongodb,mysql,postgres, sequelize)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,linux,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker, git,postman,figma,linux,vscode,vim)](https://skillicons.dev)
 
 💬 Want to get in touch?
 
