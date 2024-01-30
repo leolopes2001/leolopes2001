@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 22 years old, from Belo Horizonte and currently working as a Full Stacl Developer at Zievo.
+    I'm 22 years old, from Belo Horizonte and currently working as a Full Stack Developer at Zievo.
   </em>
 </p>
 
