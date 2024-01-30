@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 🌱 Studying and improving my skills in Vue.js and Laravel.
+- 🌱 Studying and improving my skills in React and Laravel.
 - 🚀 Student at PUC Minas
 - 📫 My email: leomartins2001@gmail.com
 
