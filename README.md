@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 22 years old, from Belo Horizonte and currently working as a Front End Developer at Grupo Gestão Saúde.
+    I'm 22 years old, from Belo Horizonte and currently working as a Full Stacl Developer at Zievo.
   </em>
 </p>
 
@@ -19,7 +19,7 @@
 - 🚀 Student at PUC Minas
 - 📫 My email: leomartins2001@gmail.com
 
-### 📊 2023 Goals:
+### 📊 2024 Goals:
 
 - 🌱 Keep learning from people and resources.
 
