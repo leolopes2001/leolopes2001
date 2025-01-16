@@ -19,7 +19,7 @@
 - 🚀 Student at PUC Minas
 - 📫 My email: leomartins2001@gmail.com
 
-### 📊 2024 Goals:
+### 📊 2025 Goals:
 
 - 🌱 Keep learning from people and resources.
 
