@@ -43,7 +43,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,aws,git,postman,figma,linux,vscode,vim)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=docker,aws,rabbitmq,git,postman,figma,linux,vscode,vim)](https://skillicons.dev)
 
 💬 Want to get in touch?
 
