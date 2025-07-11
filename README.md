@@ -39,7 +39,7 @@ These are some of the technologies and tools I use:
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,laravel,sqlite,mysql,postgres,sequelize)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,laravel,sqlite,mysql,postgres,sequelize, graphql )](https://skillicons.dev)
 
 - Tools and Plataforms
 
