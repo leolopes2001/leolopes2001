@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 23 years old, from Mateus Leme and currently working as a Full Stack Developer.
+    I'm 24 years old, from Mateus Leme and currently working as a Full Stack Developer.
   </em>
 </p>
 
