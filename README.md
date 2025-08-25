@@ -19,16 +19,6 @@
 - 🚀 Student at PUC Minas
 - 📫 My email: leomartins2001@gmail.com
 
-### 📊 2025 Goals:
-
-- 🌱 Keep learning from people and resources.
-
-- 🌎 Connect with people and explore new places.
-
-- 🎯 Create a project applying gained knowledge and new technologies.
-
-- 🚀 Improve leadership skills.
-
 ### ⚡ Technologies:
 
 These are some of the technologies and tools I use:
