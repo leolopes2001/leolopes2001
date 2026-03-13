@@ -9,15 +9,10 @@
 
 ### 🌻 About Me:
 
-<p>
-  <em>
-    I'm 24 years old, from Mateus Leme and currently working as a Full Stack Developer.
-  </em>
-</p>
-
-- 🌱 Studying and improving my skills in AWS and NodeJS.
-- 🚀 Student at PUC Minas
-- 📫 My email: leomartins2001@gmail.com
+- 💻 Full Stack Developer | Node.js | AWS | Keycloak | RabbitMQ | Kubernetes
+- 🎓 Information Systems at PUC Minas
+- ⚙️ Experience building scalable APIs, microservices and cloud architectures
+- 📫 Contact: leomartins2001@gmail.com | +55 31 99869-9100
 
 ### ⚡ Technologies:
 
