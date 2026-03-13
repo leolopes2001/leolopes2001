@@ -9,7 +9,7 @@
 
 ### 🌻 About Me:
 
-- 💻 Full Stack Developer | Node.js | AWS | Keycloak | RabbitMQ | Kubernetes
+- 💻 Full Stack Developer | Node.js | React | AWS | Keycloak | RabbitMQ | Docker | Kubernetes
 - 🎓 Information Systems at PUC Minas
 - ⚙️ Experience building scalable APIs, microservices and cloud architectures
 - 📫 Contact: leomartins2001@gmail.com | +55 31 99869-9100
