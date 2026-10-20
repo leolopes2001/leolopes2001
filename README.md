@@ -1,24 +1,21 @@
 <h1 align='center'>
   Hi, I'm Leonardo Martins!
 </h1>
-
 <p align='center'>
-  Software Engineer | Backend & AI Engineering
+  AI Engineer & Software Engineer
 </p>
 
-### ☀️ About Me
+### ☀️ About Me:
 
 <p>
   <em>
-    Building scalable backend systems, distributed architectures and AI-powered applications.
+    Building production-ready AI agents, LLM applications and scalable software.
   </em>
 </p>
 
-- ⚙️ Building scalable APIs, microservices and event-driven systems
-- 🤖 Developing AI Agents, RAG pipelines and LLM-powered applications
-- 🧩 Working with distributed systems, messaging, authentication and system integrations
+- 🤖 Building AI Agents, RAG pipelines and LLM-powered applications
+- 🧩 Working with Agentic Workflows, Multi-Agent Systems, MCP, Context & Memory
 - ☁️ Experience building and deploying applications on AWS
-- 🏗️ Focused on Backend Engineering, Software Architecture and AI Engineering
 - 🎓 Information Systems student at PUC Minas
 - 📫 Email: leomartins2001@gmail.com
 
@@ -26,11 +23,11 @@
 
 **Core Concepts**
 
-`AI Agents` · `LLMs` · `RAG` · `Prompt Engineering` · `Embeddings` · `Vector Databases` · `Agentic Workflows` · `Context Management` · `Tool Calling` · `MCP` · `Multi-Agent Systems` · `Knowledge Bases`
+`AI Agents` · `LLMs` · `RAG` · `Agentic RAG` · `Prompt Engineering` · `Context Engineering` · `Context Management` · `Memory` · `Vector Databases` · `Multi-Agent Systems` · `Agentic Workflows` · `MCP` · `LLM Evaluation` · `Human-in-the-Loop` · `Fallback Strategies` · `Fine-Tuning`
 
 **Frameworks & Tools**
 
-`LangChain` · `LangGraph` · `OpenAI` · `Google Gemini` · `Groq`
+`LangChain` · `LangGraph` · `LangFlow` · `LangSmith` · `OpenAI` · `Anthropic Claude` · `Google Gemini`
 
 ---
 
@@ -38,54 +35,39 @@
 
 #### Languages
 
-`TypeScript` · `JavaScript` · `Python` · `C#` · `PHP`
+`Python` · `JavaScript` · `TypeScript`
 
 #### Backend & APIs
 
-`Node.js` · `NestJS` · `Express.js` · `Laravel` · `.NET` · `REST APIs` · `GraphQL` · `Webhooks`
+`FastAPI` · `Django` · `Flask` · `Node.js` · `NestJS` · `Fastify` · `Express.js` · `Prisma` · `TypeORM` · `REST APIs` · `WebSockets`
 
-#### Frontend & Mobile
+#### Frontend
 
-`React` · `Next.js` · `React Native` · `Angular` · `Tailwind CSS`
+`React` · `Next.js` · `React Native` · `TailwindCSS` · `Zustand` · `React Query` · `Redux` · `Storybook`
 
 #### Databases & Messaging
 
-`PostgreSQL` · `MySQL` · `SQL Server` · `MongoDB` · `DynamoDB` · `Redis` · `RabbitMQ` · `Amazon SQS`
+`PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `BullMQ`
 
 #### Cloud & DevOps
 
-`AWS` · `Azure` · `Docker` · `Kubernetes` · `EKS` · `CI/CD` · `GitHub Actions` · `Cloudflare`
+`AWS` · `Firebase` · `Docker` · `Terraform` · `CI/CD` · `GitHub Actions` · `GitLab CI`
 
-#### Authentication & Security
+#### Observability & Quality
 
-`Keycloak` · `OAuth 2.0` · `OpenID Connect` · `JWT`
+`Grafana` · `Prometheus` · `New Relic` · `Datadog` · `Unit Testing` · `Integration Testing` · `E2E Testing`
 
 #### Software Engineering
 
-`Distributed Systems` · `Microservices` · `Event-Driven Architecture` · `Clean Architecture` · `Hexagonal Architecture` · `Clean Code` · `SOLID` · `Design Patterns`
+`Distributed Systems` · `Microservices` · `Event-Driven Architecture` · `Clean Architecture` · `Clean Code` · `SOLID` · `Design Patterns`
 
-#### Testing & Quality
-
-`Unit Testing` · `Integration Testing` · `API Testing` · `Swagger` · `Postman` · `Insomnia`
-
----
-
-### 💬 Want to get in touch?
+💬 Want to get in touch?
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:leomartins2001@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/leonardo-martins-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5511961877936&text=Ol%C3%A1%2C%20Leonardo!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.&app_absent=0" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+  <a href = "mailto:leomartins2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 <br>
-
-<p>
-  🧠 <span style="font-style:italic">
-    "Great software is built by understanding the problem before choosing the technology."
-  </span>
-</p>
