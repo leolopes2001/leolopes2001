@@ -8,9 +8,9 @@
 
 ### About Me
 
-- Backend & AI Engineer focused on APIs, microservices and AI-powered applications
-- Experience with distributed systems, asynchronous processing and cloud architectures
-- Information Systems at PUC Minas
+- 💻 Backend & AI Engineer focused on APIs, microservices and AI-powered applications
+- ⚙️ Experience with distributed systems, asynchronous processing and cloud architectures
+- 🎓 Information Systems at PUC Minas
 
 ### Technologies
 
