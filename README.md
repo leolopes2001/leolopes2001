@@ -41,10 +41,6 @@
 
 `FastAPI` · `Django` · `Flask` · `Node.js` · `NestJS` · `Fastify` · `Express.js` · `Prisma` · `TypeORM` · `REST APIs` · `WebSockets`
 
-#### Frontend
-
-`React` · `Next.js` · `React Native` · `TailwindCSS` · `Zustand` · `React Query` · `Redux` · `Storybook`
-
 #### Databases & Messaging
 
 `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `BullMQ`
