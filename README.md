@@ -65,7 +65,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/leonardo-martins-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5511961877936&text=Ol%C3%A1%2C%20Leonardo!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=%2B5531998699100&text=Ol%C3%A1%2C%20Leonardo!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.&app_absent=0" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
   <a href = "mailto:leomartins2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
